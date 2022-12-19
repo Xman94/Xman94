@@ -9,32 +9,3 @@ In my free time, I enjoy learning about and experimenting with new technologies,
 
 ## 💞️
 If you share my interests and are looking to collaborate on exciting projects related to automation, APIs, real estate, data visualization, or Python, please don't hesitate to reach out to me. I am always open to hearing about new opportunities and finding ways to work with others to achieve common goals. Thank you for visiting my profile and I hope to connect with you soon!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
