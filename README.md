@@ -7,7 +7,7 @@
 
 
 # Hello and welcome to my GitHub profile!✨ 
-My name is xavier,  and I am a hobyist software developer with a strong interest in automation, APIs, real estate, data visualization, and Python.
+My name is xavier,  and I am a hobbyist software developer with a strong interest in automation, APIs, real estate, data visualization, and Python.
 
 ## 👀
 I have always been fascinated by the power of technology to transform and streamline various industries, and I am particularly interested in exploring the ways in which automation, APIs, and data visualization can be used to improve processes and decision-making in the real estate sector.
